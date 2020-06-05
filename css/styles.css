@@ -1,0 +1,18 @@
+.primarySiteColor{
+    color: #252839;
+}
+.secondarySiteColor{
+    color: #677077;
+}
+.contextTextColor{
+    color: #b5b5b7;
+}
+.headingTextColor{
+    color: #f2b632;
+}
+body{
+    background-color: #252839;
+}
+.navbarCustomClass{
+    background-color: #677077;
+}
