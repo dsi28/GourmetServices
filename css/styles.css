@@ -34,3 +34,23 @@ body{
     background: rgb(68, 68, 68); /* IE */
     background: rgba(66, 66, 66, .3); /* NON-IE */
 }
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); }
+  
+.carousel {
+    border: solid #252839; 
+    /* margin-top: 100px; */
+}
+
+.carouselImgCustomClass{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0; 
+}
