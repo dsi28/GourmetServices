@@ -5,7 +5,7 @@
     color: #677077;
 }
 .contextTextColor{
-    color: #b5b5b7;
+    color: #94949c;
 }
 .headingTextColor{
     color: #f2b632;
@@ -53,4 +53,19 @@ body{
     position: absolute;
     right: 0;
     bottom: 0; 
+}
+
+.paddingCustomClass{
+    padding: 50px 50px;
+    color: #94949c;
+    margin-bottom: 100px;
+}
+
+.rowContentCustomClass .paddingCustomClass{
+    background-color: #252839;
+}
+
+.btnCustomClass {
+    background-color: #94949c;
+    color: #f2b632 !important;
 }
