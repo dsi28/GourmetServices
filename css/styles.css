@@ -10,6 +10,9 @@
 .headingTextColor{
     color: #f2b632;
 }
+.addtionalColor{
+    color: #3B60A5;
+}
 
 .navbarCustomClass{
     background-color: #f2b632;
@@ -40,7 +43,7 @@
     background-color: rgba(0, 0, 0, 0.5); }
   
 .carousel {
-    border: solid #677077; 
+    border: solid #3B60A5; 
     /* margin-top: 100px; */
 }
 
@@ -58,7 +61,7 @@
 
 .paddingCustomClass{
     padding: 50px 50px;
-    color: #94949c;
+    color: #B4C5E4;
     margin-bottom: 100px;
 }
 
@@ -73,6 +76,6 @@ body{
 }
 
 .card{
-    background-color: #677077;
+    background-color: #3B60A5;
     color: #f2b632;
 }
