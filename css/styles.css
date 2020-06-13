@@ -19,6 +19,9 @@ body{
 .footerCustomClass{
     background-color: #677077;
     padding: 2rem 0rem ;
+    position:absolute;
+    width: 100%;
+    bottom:0;
 }
 
 .navbar {
@@ -65,7 +68,20 @@ body{
     background-color: #252839;
 }
 
+.rowContentCustomClass{
+    padding-bottom: 140.469px;
+}
+
 .btnCustomClass {
     background-color: #94949c;
     color: #f2b632 !important;
+}
+
+body{
+    position: relative;
+    min-height: 100vh;
+}
+
+#bodyContainer{
+    padding-bottom: 100px;
 }
